@@ -1,4 +1,4 @@
-package dataStructure.section4;
+package dataStructure.chapter4.section1;
 
 public class Node<T> {
 	public T data;

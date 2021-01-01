@@ -1,7 +1,7 @@
-package dataStructure.section4_2;
+package dataStructure.chapter4.section2;
 
-import dataStructure.section4.MySingleLinkedList;
-import dataStructure.section4.Node;
+import dataStructure.chapter4.section1.MySingleLinkedList;
+import dataStructure.chapter4.section1.Node;
 
 public class Polynomial {
 	public char name;

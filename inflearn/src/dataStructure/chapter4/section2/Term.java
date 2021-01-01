@@ -1,4 +1,4 @@
-package dataStructure.section4_2;
+package dataStructure.chapter4.section2;
 
 public class Term {
 	public int coef;
